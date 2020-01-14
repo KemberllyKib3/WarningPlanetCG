@@ -1,0 +1,20 @@
+Objetivo: 
+Apagar o maximo de focos 
+de incendio que conseguir. 
+
+Vitoria: 
+Ganha o jogador que conseguir 
+uma pontuacao de 15 focos 
+de incendio espalhados no mapa. 
+
+Derrota: 
+Se o numero de focos de incendio 
+chegar a 5 os jogadores perdem. 
+A cada 5 segundos aumenta 
+permantentemente o numero de 
+focos de incendio no mapa. 
+
+Obs.: 
+Possuem limites na tela e 
+obstaculos(arvores) que podem 
+atrasar voce. 
